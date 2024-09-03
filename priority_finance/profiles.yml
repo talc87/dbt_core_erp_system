@@ -1,0 +1,25 @@
+03445d66:
+  outputs:
+    prod:
+      password: Wedding2104!
+      port: 3306
+      schema: 03445d66
+      server: priority-erp-test.mysql.database.azure.com
+      ssl_disabled: true
+      type: mysql
+      username: erp_admin
+  target: prod
+default:
+  target: prod
+priority:
+  outputs:
+    prod:
+      password: Wedding2104!
+      port: 3306
+      schema: 03445d66
+      server: priority-erp-test.mysql.database.azure.com
+      ssl_disabled: true
+      type: mysql
+      username: erp_admin
+  target: prod
+profiles: null

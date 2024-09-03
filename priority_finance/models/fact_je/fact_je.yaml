@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: fact_je
+    vars:
+      var_JE_id:
+      var_line_ID:
+      var_batch_num:
+      var_account_number:
+      var_account_name:
+      var_credit/debit:
+      var_JE_type:
+      var_details:
+      var_value_date:
+      var_refrence_date:
+      var_credit_in_local_currency:
+      var_debit_in_local_currency:
+      var_credit_in_foreign_currency:
+      var_debit_in_foreign_currency:
+      var_balance_date:
+      var_refrence:
+      var_refrence_2:
+      var_offset_account_number:
+      var_offset_account_name:
+      var_username:
+      var_JE_insert_date:
+      var_record_insert_timestamp:
+      var_record_last_modified_timestamp:
+      var_amount_in_local_currency:
+      var_amount_in_foreign_currency:

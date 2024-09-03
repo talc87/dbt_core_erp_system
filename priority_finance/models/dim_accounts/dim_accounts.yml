@@ -1,0 +1,20 @@
+# models/example_model.yml
+
+version: 2
+
+models:
+  - name: dim_accounts
+    vars:
+      var_account_num: "12345"
+      var_account_name: "Sample Account"
+      var_english_account_name: "English Sample Account"
+      var_account_currency: "USD"
+      var_level_1_code: "L1"
+      var_level_1_desc: "Level 1 Description"
+      var_level_2_desc: "Level 2 Description"
+      var_level_3_desc: "Level 3 Description"
+      var_pnl_flag: true
+      var_BS_title: "Balance Sheet"
+      var_order: 1
+      var_pnl_impact: 100
+      var_english_pnl_impact: "English P&L Impact"

@@ -1,0 +1,29 @@
+{
+    "account_id":"03445d66",  
+    "var_JE_id": "FNCNUM",
+    "var_line_ID": "KLINE",
+    "var_batch_num": "FNCLOTNUM",
+    "var_account_number": "ACCNAME",
+    "var_account_name": "ACCDES",
+    "var_credit/debit": "DC",
+    "var_JE_type": "FNCPATNAME",
+    "var_details": "DETAILS",
+    "var_value_date": "FNCDATE",
+    "var_refrence_date": "CURDATE",
+    "var_credit_in_local_currency": "credit1",
+    "var_debit_in_local_currency": "DEBIT1",
+    "var_credit_in_foreign_currency": "credit3",
+    "var_debit_in_foreign_currency": "DEBIT3",
+    "var_balance_date": "BALDATE",
+    "var_refrence": "IVNUM",
+    "var_refrence_2": "BOOKNUM",
+    "var_offset_account_number": "IACCNAME",
+    "var_offset_account_name": "IACCDES",
+    "var_username": "USERLOGIN",
+    "var_JE_insert_date": "UDATE",
+    "var_record_insert_timestamp": "INSERTDATE",
+    "var_record_last_modified_timestamp": "LastModifiedDate",
+    "model" : "fact_je"
+  }
+  
+

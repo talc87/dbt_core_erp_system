@@ -1,0 +1,19 @@
+{
+    "account_id":"03445d66",
+    "var_account_num": "ACCNAME",
+    "var_account_name": "ACCDES",
+    "var_english_account_name": "EACCDES",
+    "var_account_currency": "CODE",
+    "var_level_1_code": "TRIALBALCODE",
+    "var_level_1_desc": "TRIALBALDES",
+    "var_level_2_desc": "SECNAME",
+    "var_level_3_desc": "ACCTYPENAME",
+    "var_pnl_flag": "BALFLAG",
+    "var_BS_title": "BALTYPEDES",
+    "var_order": "ORD",
+    "var_pnl_impact": "ACCTOTAL",
+    "var_english_pnl_impact": "EACCTOTAL"
+  }
+  
+
+
